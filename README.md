@@ -1,10 +1,11 @@
 # BackToTop
 
-简单 轻量级
+- 简单 
+- 轻量级
 
 随机三款东方样式,刷新页面改变
 
-#【食用方法】
+## 【食用方法】
 
 Download ZIP, 解压
 
@@ -16,19 +17,16 @@ Download ZIP, 解压
 
 如果主题模板已加载jquery，可以在插件设置内禁用加载jquery
 
-#【更新日志】
+## 【更新日志】
 2018.4.2  1.0  项目完成
 
-#【插件声明】
+## 【插件声明】
 
 插件代码借用`Gotop插件`
+
 >Gotop项目地址:https://github.com/xiamuguizhi/GoTop
 
 >样式来自：https://www.mokeyjay.com
-
->效果预览:本站
-
->下载地址：https://pan.baidu.com/s/1aSwtHvN2N4l1rGY9K0y5og
 
 [![样式一](https://wx2.sinaimg.cn/large/006eY07Igy1fpya477yfvj30lj0jljtl.jpg "样式一")](https://wx2.sinaimg.cn/large/006eY07Igy1fpya477yfvj30lj0jljtl.jpg "样式一")
 
