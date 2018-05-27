@@ -95,7 +95,7 @@ class BackToTop_Plugin implements Typecho_Plugin_Interface
         $Options = Helper::options()->plugin('BackToTop');
         $Path = Helper::options()->pluginUrl . '/BackToTop/';	
         echo '<img id="BackToTop" src="' . $Path . 'images/'.$image_file.'" title="返回顶部~">';
-        if (!$Options->jquery && !in_array('jquery', $Options->jquery)) {
+        if (!$Options->jquery || !in_array('jquery', $Options->jquery)) {
             echo '<script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>';
         }
         echo '	
